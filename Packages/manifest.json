@@ -41,8 +41,6 @@
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
-    "com.unity.modules.xr": "1.0.0",
-    "com.leoecscommunity.ecslite": "https://github.com/LeoECSCommunity/ecslite.git",
-    "com.leoecscommunity.ecslite.unityeditor": "https://github.com/LeoECSCommunity/ecslite-unityeditor.git"
+    "com.unity.modules.xr": "1.0.0"
   }
 }
